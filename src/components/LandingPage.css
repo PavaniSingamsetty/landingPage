@@ -1,0 +1,78 @@
+/* Landing Page styles */
+.landing-page {
+    padding: 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  /* Best Sellers section styles */
+  .best-sellers {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Best Seller item styles */
+  .best-seller-item {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* New Arrivals section styles */
+  .new-arrivals {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  /* New Arrival item styles */
+  .new-arrival-item {
+    display: inline-block;
+    width: 250px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .new-arrival-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Testimonials section styles */
+  .testimonials {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  /* Testimonial styles */
+  .testimonial {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .testimonial .name {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
